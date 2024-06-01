@@ -137,3 +137,6 @@ todoList.getAllNotes();
 todoList.getTotalNotes();
 todoList.getCompletedNotes();
 todoList.getIncompleteNotes();
+
+
+//getAllNotes()
